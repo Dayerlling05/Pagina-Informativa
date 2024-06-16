@@ -1,0 +1,91 @@
+
+.navbar-nav li{
+    font-size: 25px;
+    padding-right: 15px;
+}
+.navbar-nav li a:hover{
+  color: rgb(171, 99, 6);
+}
+.carousel-inner img{
+    height: 470px;
+}
+.hr-smashing1{
+    width: 10%;
+    display: inline-block;
+    height: 5px;
+    border: 0 none;
+    background-color: black;
+    border-radius: 3px;
+    
+  }
+.hr-smashing{
+    width: 90%;
+    display: inline-block;
+    height: 5px;
+    border: 0 none;
+    background-color: black;
+    border-radius: 3px;   
+}
+
+.hr-smashing2{
+    width: 45%;
+    display: inline-block;
+    height: 5px;
+    border: 0 none;
+    background-color: black;
+    border-radius: 3px;   
+}
+
+.hr-smashing3{
+    width: 50%;
+    display: inline-block;
+    height: 5px;
+    border: 0 none;
+    background-color: black;
+    border-radius: 3px;   
+}
+
+.hr-smashing4{
+    width: 90%;
+    display: inline-block;
+    height: 5px;
+    border: 0 none;
+    background-color: black;
+    border-radius: 3px;
+    
+  }
+  
+.hr-smashing5{
+    width: 10%;
+    display: inline-block;
+    height: 5px;
+    border: 0 none;
+    background-color: black;
+    border-radius: 3px;
+    
+  }
+
+.container-fluid .row{
+
+    /*Old browsers*/
+    background: -moz-linear-gradient(-20deg, #faf6f6  0%, #faf6f6 50%, #faf6f6 50%, #b4ea7a 50%, #b4ea7a 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(-20deg, #faf6f6 0%, #faf6f6 50%, #faf6f6 50%, #b4ea7a 50%, #b4ea7a 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(95deg, #faf6f6 0%, #faf6f6 50%, #faf6f6 50%, #b4ea7a 20%, #b4ea7a 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#faf6f6', endColorstr='#000000', GradientType=1);
+    /* IE6-9 fallback on horizontal gradient */
+}
+
+.pie-pagina .container-fluid .row{
+    background: #b4ea7a;
+
+}
+.pie-pagina .container-fluid .row a i:hover{
+    color: rgb(98, 55, 6)
+}
+button{
+    display:inline-block;
+    text-align: left;
+}
